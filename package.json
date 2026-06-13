@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-dgft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IEC is a mandatory DGFT-issued identification for import-export businesses.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-dgft",
